@@ -1,2 +1,2 @@
 # XakepNtpTun
-NtpTun PoC
+PoC for NTP tunneling technique
