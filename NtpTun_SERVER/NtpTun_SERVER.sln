@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtpTun_SERVER", "NtpTun_SERVER\NtpTun_SERVER.csproj", "{173B6345-41E1-4C28-927F-1D7A392AE60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtpTun_CLIENT", "NtpTun_CLIENT\NtpTun_CLIENT.csproj", "{AF6D388C-F13B-40A6-B292-13944BEFE0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173B6345-41E1-4C28-927F-1D7A392AE60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173B6345-41E1-4C28-927F-1D7A392AE60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173B6345-41E1-4C28-927F-1D7A392AE60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173B6345-41E1-4C28-927F-1D7A392AE60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6D388C-F13B-40A6-B292-13944BEFE0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6D388C-F13B-40A6-B292-13944BEFE0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6D388C-F13B-40A6-B292-13944BEFE0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6D388C-F13B-40A6-B292-13944BEFE0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52536A2A-7E53-4894-A237-6E4DC7AE2CC6}
+	EndGlobalSection
+EndGlobal
